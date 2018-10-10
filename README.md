@@ -2,7 +2,7 @@
 
 Idea: 
 
-Forest fires cost India ₹1100 crore a year [ref](https://www.livemint.com/Politics/3tVM9yC5hRl7kapC2CNgKL/Forest-fires-cost-India-1100-crore-a-year-report.html)
+Forest fires cost India ₹1100 crore a year [reference](https://www.livemint.com/Politics/3tVM9yC5hRl7kapC2CNgKL/Forest-fires-cost-India-1100-crore-a-year-report.html)
 
 Not only Forest fires even Industrial fires,domestic fire incidents are creating a large problems to us.
 
